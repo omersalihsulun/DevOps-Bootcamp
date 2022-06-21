@@ -1,0 +1,5 @@
+Script çalıştırıldıktan sonra her gün çalışabilmesi için cron job atandı.
+
+crontab -e
+
+5 23 * * * /scripts/odevscript1.1.sh

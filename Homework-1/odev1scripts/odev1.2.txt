@@ -1,0 +1,7 @@
+Script her dakika çalışabilmesi için cron job atandı.
+
+İzlenilen adımlar:
+
+crontab -e
+
+* * * * * /scripts/odevscript1.2.sh
