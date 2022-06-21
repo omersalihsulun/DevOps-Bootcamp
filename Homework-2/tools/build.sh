@@ -8,7 +8,7 @@
 # ./build.sh -h for help                              #
 #######################################################
 
-BUILD_COMMAND="nvm package"
+BUILD_COMMAND="mvn package"
 USAGE="
 Usage:
     -b  <branch_name>     Branch name
